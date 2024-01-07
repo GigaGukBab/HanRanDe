@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,23 +8,37 @@
 </head>
 
 <body>
+
+    <h2 id="clock">00:00:00</h2>
+
     <form class="hidden" id="login-form">
         <input
-        required maxlength="15"
-        type="text" 
-        laceholder="what is your name?" />
+            required maxlength="15"
+            type="text"
+            placeholder="What is your name?" />
         <input type="submit" value="Log In" />
     </form>
-    <h2 id="clock">00:00:00</h2>
+    
     <h1 class="hidden" id="greeting"></h1>
+    
+    <form id="todo-form">
+        <input
+            type="text"
+            placeholder="Write a TODO and Press ENTER."
+            required />
+    </form>
+    
+    <ul id="todo-list"></ul>
+    
     <div id="quote">
         <span></span>
         <span></span>
     </div>
+    
     <script src="js/greeting.js"></script>
     <script src="js/clock.js"></script>
     <script src="js/quotes.js"></script>
     <script src="js/backgrounds.js"></script>
+    <script src="js/todo.js"></script>
 </body>
-
 </html>
