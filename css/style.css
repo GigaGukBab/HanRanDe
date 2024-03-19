@@ -1,3 +1,26 @@
 .hidden {
   display: none;
 }
+
+.clock_block {
+  padding: 30px;
+  margin: 10px;
+  background-color: bisque;
+}
+
+.current_time {
+  font-size: 40px;
+  padding: 20px;
+}
+
+.clock_time {
+  font-size: 50px;
+  color: rgb(51, 42, 80);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 20px;
+}
+
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+
