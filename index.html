@@ -13,14 +13,20 @@
       <time class="clock_time"></time>
     </div>
 
-    <hr class="solid">
+    <hr class="solid" />
 
     <form class="hidden" id="login-form">
       <input required maxlength="15" type="text" placeholder="What is your name?" />
       <input type="submit" value="Log In" />
     </form>
 
-    <h1 class="hidden" id="greeting"></h1>
+    <div class="hidden" id="greetingsContainer">
+      <h1 id="greetingTitle"></h1>
+      <h2 id="greetingSubTitle"></h2>
+    </div>
+
+    <!-- <h1 class="hidden" id="greeting"></h1>
+    <h1 class="hidden" id="subGreeting"></h1> -->
 
     <form id="todo-form">
       <input type="text" placeholder="Write a TODO and Press ENTER." required />

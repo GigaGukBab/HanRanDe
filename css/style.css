@@ -1,11 +1,12 @@
-.hidden {
-  display: none;
-}
-
 .clock_block {
   padding: 30px;
   margin: 10px;
   background-color: bisque;
+}
+.clock_block:hover {
+  padding: 30px;
+  margin: 10px;
+  background-color: #f2d2c2;
 }
 
 .current_time {
@@ -24,3 +25,15 @@ hr.solid {
   border-top: 3px solid #bbb;
 }
 
+.hidden {
+  display: none;
+}
+
+.Source {
+  padding: 3px;
+}
+.hub {
+  background-color: hsl(40, 96%, 55%);
+  padding: 0.5px 4px;
+  border-radius: 5px;
+}
