@@ -2,6 +2,10 @@
   padding: 30px;
   margin: 10px;
   background-color: bisque;
+
+  display: flex;
+  justify-content: center; /* 가로 방향 중앙 정렬 */
+  align-items: center; /* 세로 방향 중앙 정렬 */
 }
 .clock_block:hover {
   padding: 30px;
@@ -11,14 +15,13 @@
 
 .current_time {
   font-size: 40px;
-  padding: 20px;
+  padding-right: 10px;
 }
 
 .clock_time {
   font-size: 50px;
   color: rgb(51, 42, 80);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  padding: 20px;
 }
 
 hr.solid {
@@ -33,7 +36,17 @@ hr.solid {
   padding: 3px;
 }
 .hub {
-  background-color: hsl(40, 96%, 55%);
+  background-color: rgb(198, 174, 137);
   padding: 0.5px 4px;
   border-radius: 5px;
+}
+
+#greetingsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#greetingsContainer h1,
+h2 {
+  margin: 4px 0px; /* 상하 마진 설정, 좌우 마진은 0 */
 }

@@ -18,7 +18,7 @@ function onLoginSubmit(event) {
 
 function showGreetings(username) {
   greetingTitle.innerText = `안녕하세요 ${username}님 !`;
-  greetingSubTitle.innerHTML = `<span class="Source">Source</span><span class="hub">Hub</span>에 방문해주셔서 감사합니다💋`;
+  greetingSubTitle.innerHTML = `<span class="Source">Source</span><span class="hub">Space</span>에 방문해주셔서 감사합니다🚀`;
   greetingsContainer.classList.remove(HIDDEN_CLASSNAME);
 }
 
