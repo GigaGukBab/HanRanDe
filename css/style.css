@@ -6,6 +6,8 @@
   display: flex;
   justify-content: center; /* 가로 방향 중앙 정렬 */
   align-items: center; /* 세로 방향 중앙 정렬 */
+
+  border-radius: 20px;
 }
 .clock_block:hover {
   padding: 30px;
@@ -36,7 +38,7 @@ hr.solid {
   padding: 3px;
 }
 .hub {
-  background-color: rgb(198, 174, 137);
+  background-color: rgb(66, 202, 184);
   padding: 0.5px 4px;
   border-radius: 5px;
 }
@@ -49,4 +51,33 @@ hr.solid {
 #greetingsContainer h1,
 h2 {
   margin: 4px 0px; /* 상하 마진 설정, 좌우 마진은 0 */
+}
+
+.loginInputFormContainer {
+  border: 15px solid #f5d394f1; /* 테두리 설정 */
+  background-color: #f5d394f1; /* 배경색 */
+  border-radius: 20px;
+}
+
+#login-form {
+  text-align: center;
+  width: fit-content;
+  margin: 10px auto;
+}
+
+#loginButton {
+  background-color: rgb(156, 86, 206);
+  color: #f2d2c2;
+  border-radius: 7px;
+}
+#loginButton:hover {
+  background-color: #cc8de9;
+}
+
+#idInputForm,
+#passwordInputForm {
+  margin-bottom: 5px;
+  width: 100px;
+  height: 20px;
+  border-radius: 7px;
 }

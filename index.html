@@ -4,8 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="css/style.css" />
-    <title>Momentum App</title>
+    <title>HanRanDef</title>
+    <link rel="icon" href="./assets/icon2.svg" type="image/x-icon" />
   </head>
+
+  <!-- TODO: make header elements -->
 
   <body>
     <div class="clock_block">
@@ -16,14 +19,19 @@
     <hr class="solid" />
 
     <form class="hidden" id="login-form">
-      <input required maxlength="15" type="text" placeholder="What is your name?" />
-      <input type="submit" value="Log In" />
+      <div class="loginInputFormContainer">
+        <input required maxlength="15" type="text" placeholder="Username" id="idInputForm" /><br />
+        <input type="text" placeholder="Password" id="passwordInputForm" /><br />
+      </div>
+      <input type="submit" value="Log In" id="loginButton" />
     </form>
 
     <div class="hidden" id="greetingsContainer">
       <h1 id="greetingTitle"></h1>
       <h2 id="greetingSubTitle"></h2>
     </div>
+
+    <hr class="solid" />
 
     <form id="todo-form">
       <input type="text" placeholder="Write a TODO and Press ENTER." required />
@@ -43,7 +51,6 @@
 
     <script src="js/greeting.js"></script>
     <script src="js/clock.js"></script>
-
     <script src="js/quotes.js"></script>
     <script src="js/backgrounds.js"></script>
     <script src="js/todo.js"></script>

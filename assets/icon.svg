@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 342 160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff773b;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #f7921f;
+      }
+
+      .cls-3 {
+        fill: #fb852d;
+      }
+
+      .cls-4 {
+        fill: #fa8a28;
+      }
+
+      .cls-5 {
+        fill: #f88f22;
+      }
+
+      .cls-6 {
+        fill: #fc7f32;
+      }
+
+      .cls-7 {
+        fill: #fc822f;
+      }
+
+      .cls-8 {
+        fill: #fd7d35;
+      }
+
+      .cls-9 {
+        fill: #f88e23;
+      }
+
+      .cls-10 {
+        fill: #fd7c36;
+      }
+
+      .cls-11 {
+        fill: #f98b27;
+      }
+
+      .cls-12 {
+        fill: #f89120;
+      }
+
+      .cls-13 {
+        fill: #fb832e;
+      }
+
+      .cls-14 {
+        fill: #f7931e;
+      }
+
+      .cls-15 {
+        fill: #fd7d34;
+      }
+
+      .cls-16 {
+        fill: #f98d24;
+      }
+
+      .cls-17 {
+        fill: #fe7b37;
+      }
+
+      .cls-18 {
+        fill: #fd7e33;
+      }
+
+      .cls-19 {
+        fill: #fa872b;
+      }
+
+      .cls-20 {
+        fill: #fe7939;
+      }
+
+      .cls-21 {
+        fill: #fa882a;
+      }
+
+      .cls-22 {
+        fill: #fc8031;
+      }
+
+      .cls-23 {
+        fill: #fc8130;
+      }
+
+      .cls-24 {
+        fill: #fb842d;
+      }
+
+      .cls-33 {
+        font-family: ProgramOT-Bold, 'Program OT';
+        font-size: 44.06px;
+        font-weight: 700;
+      }
+
+      .cls-33, .cls-34, .cls-35 {
+        fill: #000;
+      }
+
+      .cls-25 {
+        fill: #ff763c;
+      }
+
+      .cls-34 {
+        font-family: Roboto-Regular, Roboto;
+        font-size: 136.61px;
+      }
+
+      .cls-26 {
+        fill: #fe7a38;
+      }
+
+      .cls-27 {
+        fill: #f98c25;
+      }
+
+      .cls-28 {
+        fill: #fe783a;
+      }
+
+      .cls-35 {
+        font-family: TTComsetakL, '210 Computersetak';
+        font-size: 56.16px;
+      }
+
+      .cls-29 {
+        fill: #f89021;
+      }
+
+      .cls-30 {
+        fill: #fb862c;
+      }
+
+      .cls-31 {
+        fill: #f98c26;
+      }
+
+      .cls-32 {
+        fill: #fa8929;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-25" x="3.51" y="4" width="333.49" height="152" rx="40.14" ry="40.14"/>
+    <rect class="cls-1" x="5.51" y="4.91" width="329.49" height="150.17" rx="40.14" ry="40.14"/>
+    <rect class="cls-28" x="7.51" y="5.83" width="325.48" height="148.35" rx="40.14" ry="40.14"/>
+    <rect class="cls-20" x="9.52" y="6.74" width="321.47" height="146.52" rx="40.14" ry="40.14"/>
+    <rect class="cls-26" x="11.52" y="7.65" width="317.46" height="144.69" rx="40.14" ry="40.14"/>
+    <rect class="cls-17" x="13.52" y="8.57" width="313.46" height="142.87" rx="40.14" ry="40.14"/>
+    <rect class="cls-10" x="15.53" y="9.48" width="309.45" height="141.04" rx="40.14" ry="40.14"/>
+    <rect class="cls-8" x="17.53" y="10.39" width="305.44" height="139.21" rx="40.14" ry="40.14"/>
+    <rect class="cls-15" x="19.54" y="11.31" width="301.44" height="137.39" rx="40.14" ry="40.14"/>
+    <rect class="cls-18" x="21.54" y="12.22" width="297.43" height="135.56" rx="40.14" ry="40.14"/>
+    <rect class="cls-6" x="23.54" y="13.13" width="293.42" height="133.74" rx="40.14" ry="40.14"/>
+    <rect class="cls-22" x="25.55" y="14.05" width="289.41" height="131.91" rx="40.14" ry="40.14"/>
+    <rect class="cls-23" x="27.55" y="14.96" width="285.41" height="130.08" rx="40.14" ry="40.14"/>
+    <rect class="cls-7" x="29.55" y="15.87" width="281.4" height="128.26" rx="40.14" ry="40.14"/>
+    <rect class="cls-13" x="31.56" y="16.79" width="277.39" height="126.43" rx="40.14" ry="40.14"/>
+    <rect class="cls-24" x="33.56" y="17.7" width="273.38" height="124.6" rx="40.14" ry="40.14"/>
+    <rect class="cls-3" x="35.56" y="18.61" width="269.38" height="122.78" rx="40.14" ry="40.14"/>
+    <rect class="cls-30" x="37.57" y="19.52" width="265.37" height="120.95" rx="40.14" ry="40.14"/>
+    <rect class="cls-19" x="39.57" y="20.44" width="261.36" height="119.12" rx="40.14" ry="40.14"/>
+    <rect class="cls-21" x="41.58" y="21.35" width="257.36" height="117.3" rx="40.14" ry="40.14"/>
+    <rect class="cls-32" x="43.58" y="22.26" width="253.35" height="115.47" rx="40.14" ry="40.14"/>
+    <rect class="cls-4" x="45.58" y="23.18" width="249.34" height="113.64" rx="40.14" ry="40.14"/>
+    <rect class="cls-11" x="47.59" y="24.09" width="245.33" height="111.82" rx="40.14" ry="40.14"/>
+    <rect class="cls-31" x="49.59" y="25" width="241.33" height="109.99" rx="40.14" ry="40.14"/>
+    <rect class="cls-27" x="51.59" y="25.92" width="237.32" height="108.17" rx="40.14" ry="40.14"/>
+    <rect class="cls-16" x="53.6" y="26.83" width="233.31" height="106.34" rx="40.14" ry="40.14"/>
+    <rect class="cls-9" x="55.6" y="27.74" width="229.3" height="104.51" rx="40.14" ry="40.14"/>
+    <rect class="cls-5" x="57.6" y="28.66" width="225.3" height="102.69" rx="40.14" ry="40.14"/>
+    <rect class="cls-29" x="59.61" y="29.57" width="221.29" height="100.86" rx="40.14" ry="40.14"/>
+    <rect class="cls-12" x="61.61" y="30.48" width="217.28" height="99.03" rx="40.14" ry="40.14"/>
+    <rect class="cls-2" x="63.62" y="31.4" width="213.28" height="97.21" rx="40.14" ry="40.14"/>
+    <rect class="cls-14" x="65.62" y="32.31" width="209.27" height="95.38" rx="40.14" ry="40.14"/>
+  </g>
+  <text class="cls-34" transform="translate(42.94 129.92)"><tspan x="0" y="0">R</tspan></text>
+  <g>
+    <text class="cls-33" transform="translate(21.72 129.14)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-33" transform="translate(127.16 129.14)"><tspan x="0" y="0">D</tspan></text>
+  </g>
+  <text class="cls-35" transform="translate(165.37 95.53)"><tspan x="0" y="0">한랜디</tspan></text>
+</svg>
