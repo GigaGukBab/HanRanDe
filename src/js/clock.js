@@ -1,4 +1,5 @@
-const clock_time = document.getElementsByClassName('clock_time')[0];
+const clock_time = document.getElementsByClassName('clock-time')[0];
+console.log(clock_time);
 
 // > 현재 시간을 가져와서 화면에 표시하고 <time> 태그의 datetime 속성을 업데이트하는 함수
 function getClock() {

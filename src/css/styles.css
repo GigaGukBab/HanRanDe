@@ -1,26 +1,18 @@
-.clock_block {
-  padding: 30px;
-  margin: 10px;
-  background-color: bisque;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import '/src/css/styles';
 
-  display: flex;
-  justify-content: center; /* 가로 방향 중앙 정렬 */
-  align-items: center; /* 세로 방향 중앙 정렬 */
-
-  border-radius: 20px;
-}
-.clock_block:hover {
-  padding: 30px;
-  margin: 10px;
-  background-color: #f2d2c2;
+.clock-block {
+  @apply flex justify-center items-center p-8 m-3 bg-orange-300 rounded-lg hover:bg-amber-500;
 }
 
-.current_time {
+.current-time {
   font-size: 40px;
   padding-right: 10px;
 }
 
-.clock_time {
+.clock-time {
   font-size: 50px;
   color: rgb(51, 42, 80);
   font-family: Verdana, Geneva, Tahoma, sans-serif;

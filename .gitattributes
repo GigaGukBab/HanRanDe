@@ -1,1 +1,5 @@
+# SVG 파일에 대해서는 CRLF를 사용
 *.svg text eol=crlf
+
+# 모든 파일에 대해 자동으로 텍스트 속성을 적용하고, 줄 바꿈을 LF로 설정
+* text=auto eol=lf
